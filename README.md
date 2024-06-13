@@ -19,6 +19,6 @@ This is a web-based To Do List application that allows users to manage their tas
    git clone https://github.com/yourusername/todo-list-application.git
 2. Navigate to the project directory:
    cd todo-list-application
-3. Import the provided todo_list.sql file into your MySQL database to create the necessary table.
+3. Import the provided todo_list.sql file into your MySQL database.
 4. Update the database configuration in db.php with your MySQL credentials
 5. Start your local server (e.g., using XAMPP or MAMP) and navigate to the project directory in your browser.
